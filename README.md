@@ -1,5 +1,6 @@
 # Passenger_Number_Estimation_with-_RNN
 
+<img src="[image_url](https://github.com/Merttcoskun/Passenger_Number_Estimation_with_RNN/assets/111244707/08bbc73b-2493-4785-a8f4-8dfb24af0103)" width="500" height="300">
 
 ![ucak](https://github.com/Merttcoskun/Passenger_Number_Estimation_with_RNN/assets/111244707/08bbc73b-2493-4785-a8f4-8dfb24af0103){:width="500px" height="300px"}
 
